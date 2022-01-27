@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Violet
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning Kotlin and JS
+- 💞️ I’m looking to collaborate on TPH Projects
+- 📫 How to reach me - Discord me at VioletB#3008
